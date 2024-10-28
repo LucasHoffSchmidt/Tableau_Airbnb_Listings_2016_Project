@@ -1,5 +1,5 @@
 # Tableau Airbnb Listings 2016 Project
-In this project we used Tableau to perform a data exploration project with data from airbnb 2016 listings. 
+In this project we used Tableau to analyse data from 2016 airbnb listings.
 
 ## Tools and technologies
 - **Tableau**: Data exploration
