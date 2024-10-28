@@ -1,2 +1,33 @@
-# Tableau-Airbnb-Listings-2016-Project
+# Tableau Airbnb Listings 2016 Project
 Data exploration project in tableau with data from airbnb 2016 listings. 
+
+## Tools and technologies
+- **Tableau**: Data exploration
+
+## Project Objectives
+- Determine the best type of real estate to invest in for leasing out through airbnb.
+
+## Data Sources
+- https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
+  
+## Analysis steps
+- **Data Exploration**:
+  - Joined the listings table with the calendar table using an inner join on the listings id
+  - Made a column chart with average airbnb price by zipcode
+  - Made a map showing the average airbnb price by zipcode
+  - Made a line chart showing the total price of airbnb by week
+  - Made a column chart with average price by number of bedrooms
+  - Made a table showing number of listings per number of bedrooms
+  - Combined visuals into a dashboard
+
+## Key findings
+- The highest price for airbnb is in the zipcode of 98101
+- Airbnbs with 1 bedroom are the most popular
+- The best time to lease out an airbnb is during June or December
+
+## Visualizations
+[Tableau Airbnb Listings 2016 Dashboard](https://public.tableau.com/app/profile/lucas.hoff.schmidt/viz/airbnb_listings_2016_project/Dashboard1?publish=yes)
+![Tableau Airbnb Listings 2016 Dashboard Image](airbnb_listings_2016_dashboard.png)
+
+## Conclusion
+Buy an apartment with 1 bedroom in the zipcode of 98101 and lease it out through airbnb in June and December. 
