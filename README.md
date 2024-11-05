@@ -12,12 +12,14 @@ In this project we used Tableau to analyse data from 2016 airbnb listings.
   
 ## Analysis steps
 - **Data Exploration**:
+  - Opened the listings table
   - Joined the listings table with the calendar table using an inner join on the listings id
   - Made a column chart with average airbnb price by zipcode
-  - Made a map showing the average airbnb price by zipcode
-  - Made a line chart showing the total price of airbnb by week
+  - Made a map showing the average airbnb price by zipcode and country
+  - Made a line chart showing the total price of airbnb per week
+  - Converted the bedrooms field from numerical to dimension
   - Made a column chart with average price by number of bedrooms
-  - Made a table showing number of listings per number of bedrooms
+  - Made a table showing number of listings by number of bedrooms
   - Combined visuals into a dashboard
 
 ## Key findings
