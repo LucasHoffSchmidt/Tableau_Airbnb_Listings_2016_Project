@@ -15,9 +15,7 @@ In this project we used Tableau to analyse data from 2016 airbnb listings.
 - [Airbnb listings 2016](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
   
 ## Process
-  - Downloaded dataset from Kaggle.
-  - Connected Tableau to the dataset.
-  - Opened the listings table.
+  - Downloaded dataset from Kaggle and connected Tableau to the dataset. 
   - Joined the listings table with the calendar table using an inner join on the listings id.
   - Made a column chart with average airbnb price by zipcode.
   - Made a map showing the average airbnb price by zipcode and country.
