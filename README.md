@@ -2,14 +2,12 @@
 In this project we used Tableau to analyse data from 2016 Airbnb listings to determine the best type of real estate to invest in for leasing out through Airbnb. 
 
 ## Quick Links
+- Airbnb listings 2016 dataset: [Airbnb listings 2016](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
 - Final Dashboard: [Final Dashboard](airbnb_listings_2016_dashboard.png)
 - Other projects I have made: [Portfolio Website](https://lucashoffschmidt.github.io/)
 
 ## Technologies Used
 - **Tableau**: Data exploration and dashboard creation.
-
-## Data Source
-- [Airbnb listings 2016](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
   
 ## Process
   - Downloaded dataset from Kaggle and connected Tableau to the dataset. 
