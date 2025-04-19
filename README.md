@@ -5,7 +5,7 @@ In this project we used Tableau to analyse data from 2016 airbnb listings.
 - Final Dashboard: [Final Dashboard](airbnb_listings_2016_dashboard.png)
 - Other projects I have made: [Portfolio Website](https://lucashoffschmidt.github.io/)
 
-## Tools Used
+## Technologies Used
 - **Tableau**: Data exploration and dashboard creation.
 
 ## Project Objective
